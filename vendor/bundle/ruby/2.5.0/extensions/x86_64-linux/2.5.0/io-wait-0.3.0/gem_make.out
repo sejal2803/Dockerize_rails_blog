@@ -1,0 +1,11 @@
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+/usr/share/rvm/rubies/ruby-2.5.9/bin/ruby -I /usr/share/rvm/rubies/ruby-2.5.9/lib/ruby/site_ruby/2.5.0 -r ./siteconf20230303-117168-l39h8k.rb extconf.rb
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+make "DESTDIR=" clean
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+make "DESTDIR="
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.0/ext/io/wait
+make "DESTDIR=" install

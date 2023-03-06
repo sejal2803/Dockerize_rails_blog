@@ -1,0 +1,19 @@
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/digest-3.1.1/ext/digest/sha2
+/usr/share/rvm/rubies/ruby-2.5.9/bin/ruby -I /usr/share/rvm/rubies/ruby-2.5.9/lib/ruby/site_ruby/2.5.0 -r ./siteconf20230303-117168-guf4qk.rb extconf.rb
+checking for CommonCrypto/CommonDigest.h... no
+checking for u_int8_t... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/digest-3.1.1/ext/digest/sha2
+make "DESTDIR=" clean
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/digest-3.1.1/ext/digest/sha2
+make "DESTDIR="
+compiling sha2init.c
+compiling sha2.c
+linking shared-object digest/sha2.so
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.5.0/gems/digest-3.1.1/ext/digest/sha2
+make "DESTDIR=" install
+/usr/bin/install -m 0755 sha2.so ./.gem.20230303-117168-3x2spm/digest

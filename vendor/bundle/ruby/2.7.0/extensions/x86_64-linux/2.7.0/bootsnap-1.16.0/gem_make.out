@@ -1,0 +1,15 @@
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20230304-39326-5yspqw.rb extconf.rb
+creating Makefile
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/developer/Docker_implementation/Docker-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.16.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20230304-39326-ga5pt2/bootsnap
